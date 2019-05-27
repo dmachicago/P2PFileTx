@@ -1,0 +1,5 @@
+﻿background: #7d7e7d;
+background: -moz-radial-gradient(center, ellipse cover, #7d7e7d 0%, #0e0e0e 100%);
+background: -webkit-radial-gradient(center, ellipse cover, #7d7e7d 0%,#0e0e0e 100%);
+background: radial-gradient(ellipse at center, #7d7e7d 0%,#0e0e0e 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7d7e7d', endColorstr='#0e0e0e',GradientType=1 );
